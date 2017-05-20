@@ -3399,3 +3399,8 @@
 	display: inline-block;
 	margin: 0;
 }
+
+.eye{
+	width: 50%;
+	display: inline-block;
+}
