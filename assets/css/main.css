@@ -3359,6 +3359,7 @@
 .container-item {
 	padding: 10px 20px;
 	border: 1px solid black;
+	margin-top: 20px;
 }
 
 .check-is-read {
