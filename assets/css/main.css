@@ -3354,3 +3354,18 @@
 			}
 
 		}
+
+
+.container-item {
+	border: 1px solid black;
+}
+
+.check-is-read {
+	display: inline-block;;
+	vertical-align: top;
+	margin-top: 20px;
+}
+
+.check-item {
+	margin-top: 20px;
+}
