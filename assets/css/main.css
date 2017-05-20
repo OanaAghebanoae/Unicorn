@@ -3404,3 +3404,34 @@
 	width: 50%;
 	display: inline-block;
 }
+
+.eye p{
+	text-align: center;
+}
+
+#tryNowButton{
+	width: 30%;
+	text-align: center;
+	display: inline-block;
+}
+
+.button-container{
+	text-align: center;
+}
+
+.img-component{
+width: 33%;
+display: inline-block;	
+}
+
+.img-component img {
+	width: 100%;
+	box-sizing: border-box;
+	padding: 5px;
+}
+
+.img-component p{
+	width: 100%;
+	box-sizing: border-box;
+	padding: 5px;
+}
