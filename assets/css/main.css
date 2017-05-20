@@ -3357,6 +3357,7 @@
 
 
 .container-item {
+	padding: 10px 20px;
 	border: 1px solid black;
 }
 
@@ -3367,5 +3368,13 @@
 }
 
 .check-item {
+	margin-top: 20px;
+}
+
+.comment-input {
+	width: 560px;
+}
+
+.add-comment {
 	margin-top: 20px;
 }
