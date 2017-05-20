@@ -3371,7 +3371,13 @@
 	margin-top: 20px;
 }
 
+.check-item h4 {
+	margin-left: 20px;
+	color: #692f39;
+}
+
 .comment-input {
+	margin-top: 20px;
 	width: 560px;
 }
 
