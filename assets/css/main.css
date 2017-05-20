@@ -3401,12 +3401,20 @@
 }
 
 .eye{
-	width: 50%;
+	width: 100%;
 	display: inline-block;
+	height: 250px;
+	padding-top: 100px;
 }
 
-.eye p{
+.eye h3{
 	text-align: center;
+	text-transform: none;
+	font-family: Helvetica;
+}
+
+.eye ul {
+	margin-top: 20px;
 }
 
 #tryNowButton{
@@ -3430,8 +3438,19 @@ display: inline-block;
 	padding: 5px;
 }
 
-.img-component p{
+.img-component h3,.img-component h4{
 	width: 100%;
 	box-sizing: border-box;
 	padding: 5px;
+	text-transform: none;
+	color: black;
+	font-family: Helvetica;
 }
+
+.graph p, .graph li {
+		padding-top: 20px;
+		font-size: 20px;
+		font-family: Helvetica;
+	}
+
+
